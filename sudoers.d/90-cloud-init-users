@@ -1,0 +1,4 @@
+# Created by cloud-init v. 21.4-0ubuntu1~20.04.1 on Tue, 21 Dec 2021 17:01:52 +0000
+
+# User rules for mnik
+mnik ALL=(ALL) NOPASSWD:ALL
